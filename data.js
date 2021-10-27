@@ -11,8 +11,8 @@ module.exports = {
     { id: 3, name: "Shefali", role: ROLE.BASIC },
   ],
   projects: [
-    { id: 1, name: "Himanshu's Project", userid: 1 },
-    { id: 2, name: "Shivam's Project", userid: 2 },
-    { id: 3, name: "Shefali's Project", userid: 3 },
+    { id: 1, name: "Himanshu's Project", userId: 1 },
+    { id: 2, name: "Shivam's Project", userId: 2 },
+    { id: 3, name: "Shefali's Project", userId: 3 },
   ],
 };
